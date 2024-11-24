@@ -26,6 +26,7 @@ This repository contains scripts and instructions for configuring and utilizing 
 
 ### Recommended Setup:
 - Use a **microcontroller** and a **relay**.
+- Jumper wires from the pin 18 and 19 go to normally open on one channel on the relay, and 28 and 29 go to the other channel, based on channel used INx and INy connected to the arduino digital port, connect ground and vcc on arduino to corresponding one on relay. 
 - Control the circuit using a Python script that provides high or low signals to activate or deactivate hand guiding.
 
 ![Configuration Diagram](arduino.jpg)
@@ -55,7 +56,7 @@ This repository contains scripts and instructions for configuring and utilizing 
 - **Hardware**:
   - Microcontroller
   - Relay for switch setup.
-  - Jumper cables
+  - Jumper wires
 - **Software**:
   - Python environment for running the relay script.
   - Sunrise for setting up hand guiding
