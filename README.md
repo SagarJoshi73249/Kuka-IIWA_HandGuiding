@@ -28,7 +28,7 @@ This repository contains scripts and instructions for configuring and utilizing 
 - Use a **microcontroller** and a **relay**.
 - Control the circuit using a Python script that provides high or low signals to activate or deactivate hand guiding.
 
-![Configuration Diagram](Kuka-IIWA_HandGuiding\arduino.jpg)
+![Configuration Diagram](arduino.jpg)
 ---
 
 ## Notes for Smooth Operation
