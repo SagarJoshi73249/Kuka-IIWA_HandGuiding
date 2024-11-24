@@ -37,6 +37,7 @@ This repository contains scripts and instructions for configuring and utilizing 
 - **Data Collection Script**:
   - The script in this repository is designed for data collection.
   - Data is stored in the controller at ` C:\KRC\Roboter\Log\DataRecorder`.
+  - Use remote desktop to connect to the controller, default password is 68kuka1secpw59. 
 - **ROS2 Connection Limitation**:
   - Hand guiding and ROS2 connection cannot operate simultaneously.
 
