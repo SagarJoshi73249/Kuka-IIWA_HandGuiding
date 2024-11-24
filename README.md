@@ -36,7 +36,7 @@ This repository contains scripts and instructions for configuring and utilizing 
 - Ensure the robot is in **Auto Mode** for hand guiding to function correctly.
 - **Data Collection Script**:
   - The script in this repository is designed for data collection.
-  - Data is stored in the controller at `krc/roboter/datacollection`.
+  - Data is stored in the controller at ` C:\KRC\Roboter\Log\DataRecorder`.
 - **ROS2 Connection Limitation**:
   - Hand guiding and ROS2 connection cannot operate simultaneously.
 
