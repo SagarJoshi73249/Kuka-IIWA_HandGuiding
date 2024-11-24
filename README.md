@@ -1,4 +1,4 @@
-# Hand Guiding Configuration and Data Collection for [Robot Model/Project Name]
+# Hand Guiding Configuration and Data Collection for [Kuka IIWA LBR Robots]
 
 This repository contains scripts and instructions for configuring and utilizing hand guiding on the robot. Follow the steps below to set up the system and ensure smooth operation.
 
